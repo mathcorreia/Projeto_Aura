@@ -1,0 +1,79 @@
+{
+  "dados_atuais": {
+    "temperatura": 25.8,
+    "umidade": 68.5,
+    "pressao": 940.1,
+    "razao_qualidade": 5,
+    "status_cooler": 1,
+    "timestamp": "2025-11-17 01:50:00"
+  },
+  "historico_24h": [
+    {
+      "hora": "2025-11-16 14:00",
+      "media_qualidade": 7.5,
+      "media_temperatura": 24.0
+    },
+    {
+      "hora": "2025-11-16 15:00",
+      "media_qualidade": 7.2,
+      "media_temperatura": 25.1
+    },
+    {
+      "hora": "2025-11-16 16:00",
+      "media_qualidade": 6.8,
+      "media_temperatura": 25.5
+    },
+    {
+      "hora": "2025-11-16 17:00",
+      "media_qualidade": 7.0,
+      "media_temperatura": 24.8
+    },
+    {
+      "hora": "2025-11-16 18:00",
+      "media_qualidade": 7.4,
+      "media_temperatura": 24.2
+    },
+    {
+      "hora": "2025-11-16 19:00",
+      "media_qualidade": 8.0,
+      "media_temperatura": 23.5
+    },
+    {
+      "hora": "2025-11-16 20:00",
+      "media_qualidade": 8.5,
+      "media_temperatura": 23.0
+    },
+    {
+      "hora": "2025-11-16 21:00",
+      "media_qualidade": 8.2,
+      "media_temperatura": 22.8
+    }
+  ],
+  "atividade_cooler_24h": {
+    "ligado": 100 ,
+    "desligado": 350
+  },
+  "ultimas_5_leituras": [
+    {
+      "timestamp": "2025-11-17 01:50:00",
+      "temperatura": 25.8,
+      "umidade": 68.9,
+      "pressao": 940.1,
+      "razao_qualidade": 8.2
+    },
+    {
+      "timestamp": "2025-11-17 01:45:00",
+      "temperatura": 25.9,
+      "umidade": 68.2,
+      "pressao": 940.0,
+      "razao_qualidade": 8.1
+    },
+    {
+      "timestamp": "2025-11-17 01:40:00",
+      "temperatura": 26.0,
+      "umidade": 68.0,
+      "pressao": 940.2,
+      "razao_qualidade": 8.0
+    }
+  ]
+}
